@@ -1,13 +1,4 @@
 ---
 ---
 
-@import "plain";
-
-{% if site.plainwhite.search %}
-  @import "search";
-{% endif %}
-
-{%- if site.plainwhite.dark_mode -%}
-  @import "toggle";
-  @import "dark";
-{%- endif -%}
+@import "jekyll-theme-tactile";
