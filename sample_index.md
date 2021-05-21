@@ -37,16 +37,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-```cpp
-// Cpp code with syntax highlighting
-#include<iostream>
-std::ostream& opeartor<<(std::ostream& os, Type& t)
-{
-    os << "hello world";
-    return os;
-}
-```
-
 #### Header 4
 
 *   This is an unordered list following a header.
