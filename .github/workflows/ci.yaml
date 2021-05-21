@@ -12,4 +12,4 @@ jobs:
       - name: build
         run: chmod +x script/bootstrap
       - name: test
-        run: script/cibuild
+        run: chmod +x script/cibuild
